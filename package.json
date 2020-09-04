@@ -63,7 +63,7 @@
     "koa": "^2.5.1",
     "koa-better-http-proxy": "^0.2.4",
     "koa-logger": "^3.2.0",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "nodemon": "^1.17.4",
     "normalize.css": "^8.0.0",
     "omit.js": "^1.0.0",
